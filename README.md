@@ -1,2 +1,0 @@
-# IMC
-Calculateur d'IMC
